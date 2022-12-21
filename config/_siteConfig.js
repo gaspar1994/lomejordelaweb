@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Lo Mejor de la Web',
   tagline: 'Los mejores videos de todo internet',
-  featureImage: 'https://media.istockphoto.com/id/1318700745/es/foto/pared-negra-como-fondo-para-el-dise%C3%B1o-y-la-publicidad.jpg?s=612x612&w=0&k=20&c=jj5GZ_FZF8Xjr_HYVNXf0xOAW6u3JRqVJ5V-Ws62HgA=',
+  featureImage: 'https://marketplace.canva.com/EAEK4dC2olw/1/0/1600w/canva-arco%C3%ADris-gradiente-rosa-y-naranja-fondo-virtual-para-zoom-c3PYha1JI9M.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
