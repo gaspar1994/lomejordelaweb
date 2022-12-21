@@ -7,11 +7,9 @@
       }"
     >
       <img
-        src="`/uploads/logo-mejorweb.png`"
+        src="'/uploads/logo-mejorweb.png'"
       />
-      <img
-        src="`/uploads/logo-mejorweb.png`"
-      />
+      
     </div>
   </div>
 </template>
