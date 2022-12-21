@@ -20,6 +20,6 @@ El delantero del **PSG** se hizo acreedor a este **trofeo** luego de que **
 <br>
 A través de redes sociales está circulando un video de la ceremonia de premiación, donde Mbappé recoge su Bota de Oro coronándose como campeón de goleo, pero sufre un accidente segundos después.
 
-Como se aprecia en las imágenes, el jugador francés luce triste tras perder en la tanda de penales con la Selección de Francia, por lo que toma su trofeo con una mano y se marcha caminando, viendo la Copa del Mundo que esta vez no estará en su poder.
+Como se aprecia en las imágenes, el jugador francés luce triste tras perder en la tanda de penales con la Selección de Francia, por lo que toma su trofeo con una mano y se marcha caminando, viendo la Copa del Mundo que esta vez no estará en su poder
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TzYFOMjECDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
