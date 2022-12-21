@@ -3,7 +3,7 @@
     <site-hero
       title="Acerca de"
       subtitle="Conoce mas de nosotros"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/home-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
