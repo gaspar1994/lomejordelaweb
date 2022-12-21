@@ -6,7 +6,7 @@
         blink: blinking
       }"
     >
-      <h1>LMDLW</h1>
+      <h1>Lo Mejor de La Web</h1>
       
     </div>
   </div>
