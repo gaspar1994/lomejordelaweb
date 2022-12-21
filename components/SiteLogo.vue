@@ -7,14 +7,10 @@
       }"
     >
       <img
-        v-for="x in frames"
-        :key="x"
-        :src="`/uploads/logo-mejorweb.png`"
+        src="`/uploads/logo-mejorweb.png`"
       />
       <img
-        v-for="x in frames"
-        :key="`${x}-r`"
-        :src="`/uploads/logo-mejorweb.png`"
+        src="`/uploads/logo-mejorweb.png`"
       />
     </div>
   </div>
@@ -24,7 +20,7 @@ export default {
   name: 'SiteLogo',
   data() {
     return {
-      frames: 5,
+      frames: 1,
       currentFrame: 1,
       blinking: true
     }
