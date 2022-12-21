@@ -9,12 +9,12 @@
       <img
         v-for="x in frames"
         :key="x"
-        :src="`/uploads/home-hero.jpg`"
+        :src="`/uploads/logo-mejorweb.png`"
       />
       <img
         v-for="x in frames"
         :key="`${x}-r`"
-        :src="`/uploads/home-hero.jpg`"
+        :src="`/uploads/logo-mejorweb.png`"
       />
     </div>
   </div>
