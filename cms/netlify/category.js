@@ -2,10 +2,10 @@ import { getMixins } from './mixins'
 
 class Category {
   constructor(axios) {
-    this.slug = 'Categorias'
-    this.slugPlural = 'Categorias'
-    this.pretty = 'Categorias'
-    this.plural = 'Categorias'
+    this.slug = 'Category'
+    this.slugPlural = 'Categories'
+    this.pretty = 'Category'
+    this.plural = 'Categories'
     this.axios = axios
   }
 }
