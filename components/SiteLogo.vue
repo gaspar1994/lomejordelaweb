@@ -6,9 +6,7 @@
         blink: blinking
       }"
     >
-      <img
-        src="'/uploads/logo-mejorweb.png'"
-      />
+      <h1>LMDLW</h1>
       
     </div>
   </div>
