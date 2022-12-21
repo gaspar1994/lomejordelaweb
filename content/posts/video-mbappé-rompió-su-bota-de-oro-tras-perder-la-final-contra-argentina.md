@@ -19,4 +19,4 @@ A través de redes sociales está circulando un video de la ceremonia de premiac
 
 Como se aprecia en las imágenes, el jugador francés luce triste tras perder en la tanda de penales con la Selección de Francia, por lo que toma su trofeo con una mano y se marcha caminando, viendo la Copa del Mundo que esta vez no estará en su poder
 
-<<iframe width="560" height="315" src="https://www.youtube.com/embed/TzYFOMjECDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<<iframe width="560" height="315" src="https://www.youtube.com/embed/TzYFOMjECDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
