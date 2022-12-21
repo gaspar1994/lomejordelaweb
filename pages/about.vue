@@ -24,7 +24,7 @@ Si eres un apasionado del deporte, no puedes dejar de visitar nuestra pÃ¡gina. Â
 
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
-          Latest Posts
+          Ultimos Posts
         </h3>
         <posts-grid :per-row="1" :number="2" />
       </template>
