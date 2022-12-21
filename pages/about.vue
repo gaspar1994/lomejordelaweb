@@ -10,13 +10,13 @@
         <div class="content">
           <h3>Lo mejor de la Web</h3>
           <p>
-            <strong>
+            
               ¡Bienvenidos a nuestra página de videos deportivos! Aquí encontrarás una amplia variedad de contenido deportivo, desde partidos en vivo y resúmenes de juegos hasta entrevistas con jugadores y entrenadores. También tenemos tutoriales y consejos para mejorar tu rendimiento en distintos deportes.
-
+<br><br>
 Nuestro objetivo es brindar a los aficionados al deporte la mejor experiencia posible, y para ello contamos con un equipo de profesionales que se encarga de seleccionar y editar el contenido más interesante y de calidad. Además, nuestra plataforma está diseñada para ser fácil de usar y accesible desde cualquier dispositivo.
-
+<br><br>
 Si eres un apasionado del deporte, no puedes dejar de visitar nuestra página. ¡Te aseguramos que encontrarás mucho material interesante y divertido!
-            </strong>
+          
           </p>
           
       </template>
