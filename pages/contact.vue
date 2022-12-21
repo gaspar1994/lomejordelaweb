@@ -1,9 +1,9 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
-      subtitle="Example Contact Page"
-      image="/uploads/contact-hero.jpg"
+      title="Contactanos"
+      subtitle="La mejor forma de ponerte en contacto con nosotros"
+      image="/uploads/home-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -11,10 +11,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Hola
               </p>
               <p class="subtitle">
-                What can I do for you?
+                ¿Como podemos ayudarte?
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -26,17 +26,11 @@
               </figure>
               <br />
               <div class="content">
+                
                 <p>
-                  <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
-                  </strong>
-                </p>
-                <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  Si tienes alguna pregunta, sugerencia o simplemente quieres decir hola, no dudes en ponerte en contacto con nosotros a través de nuestro formulario de contacto o a través de nuestras redes sociales. Estaremos encantados de ayudarte en todo lo que necesites.
+<br><br>
+También puedes suscribirte a nuestro boletín de noticias para recibir actualizaciones sobre nuestras últimas noticias y eventos. ¡Esperamos escuchar de ti pronto!
                 </p>
               </div>
             </article>
